@@ -1,27 +1,43 @@
-# Memoteca
+# Projeto Angular - CRUD de Pensamentos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD"** da [Alura](https://www.alura.com.br). O objetivo é aprender os fundamentos do Angular e aplicar os principais conceitos em um projeto prático.
 
-## Development server
+## 🚀 Funcionalidades atuais
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Criação de componentes com Angular CLI
+- Aplicação de Property Binding, Event Binding e Two-Way Binding
 
-## Code scaffolding
+## 🧠 Conceitos estudados até agora
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Componentização com Angular
+- Comunicação entre template e classe
+- Diretiva ngModel para two-way data binding
+- Organização de arquivos e boas práticas com Angular CLI
 
-## Build
+## 📚 Próximos tópicos a serem estudados
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Navegação com roteamento
+- Diretivas estruturais e de atributos
+- Comunicação com backend
+- Requisições HTTP com Angular
 
-## Running unit tests
+## 🛠️ Tecnologias utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular 14
+- TypeScript
+- HTML
+- CSS
 
-## Running end-to-end tests
+## 📦 Como executar
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone o repositório:
+   git clone https://github.com/DanielEngelmeier/memoteca.git
+2. Instale as dependências:
+   npm install
+3. Execute o projeto:
+   ng serve
+4. Acesse no navegador: http://localhost:4200
 
-## Further help
+## 📌 Status
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+🚧 Em andamento — acompanhando o progresso do curso.
