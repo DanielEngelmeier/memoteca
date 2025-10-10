@@ -7,6 +7,7 @@ Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conc
 - Criação de componentes com Angular CLI
 - Aplicação de Property Binding, Event Binding e Two-Way Binding
 - Aplicação de rotas utilizando <router-outlet> e routerLink
+- Aplicação de diretivas como ngFor, ngIf e ngClass
 
 ## 🧠 Conceitos estudados até agora
 
@@ -15,10 +16,10 @@ Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conc
 - Diretiva ngModel para two-way data binding
 - Organização de arquivos e boas práticas com Angular CLI
 - Navegação com roteamento
+- Diretivas estruturais e de atributos
 
 ## 📚 Próximos tópicos a serem estudados
 
-- Diretivas estruturais e de atributos
 - Comunicação com backend
 - Requisições HTTP com Angular
 
