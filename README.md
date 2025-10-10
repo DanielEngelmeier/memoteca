@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conc
 - Aplicação de Property Binding, Event Binding e Two-Way Binding
 - Aplicação de rotas utilizando <router-outlet> e routerLink
 - Aplicação de diretivas como ngFor, ngIf e ngClass
+- Utilização da ferramenta json-server para simular o backend
 
 ## 🧠 Conceitos estudados até agora
 
@@ -17,10 +18,10 @@ Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conc
 - Organização de arquivos e boas práticas com Angular CLI
 - Navegação com roteamento
 - Diretivas estruturais e de atributos
+- Comunicação com backend
 
 ## 📚 Próximos tópicos a serem estudados
 
-- Comunicação com backend
 - Requisições HTTP com Angular
 
 ## 🛠️ Tecnologias utilizadas
