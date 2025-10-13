@@ -1,14 +1,14 @@
 # Projeto Angular - CRUD de Pensamentos
 
-Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD"** da [Alura](https://www.alura.com.br). O objetivo é aprender os fundamentos do Angular e aplicar os principais conceitos em um projeto prático.
+Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD"** e **"Angular 14: evoluindo a aplicação"** da [Alura](https://www.alura.com.br). O objetivo é aprender os fundamentos do Angular e aplicar os principais conceitos em um projeto prático.
 
-## 🚀 Funcionalidades atuais
+## ✍🏻 Próximas funcionalidades
 
-- Criação de componentes com Angular CLI
-- Aplicação de Property Binding, Event Binding e Two-Way Binding
-- Aplicação de rotas utilizando <router-outlet> e routerLink
-- Aplicação de diretivas como ngFor, ngIf e ngClass
-- Utilização da ferramenta json-server para simular o backend
+- Validação em formulários reativos
+- Paginação
+- Busca
+- Adicionar favoritos
+- Visualizar favoritos
 
 ## 🧠 Conceitos estudados até agora
 
@@ -19,10 +19,8 @@ Este projeto foi desenvolvido como parte do curso **"Angular 14: aplique os conc
 - Navegação com roteamento
 - Diretivas estruturais e de atributos
 - Comunicação com backend
-
-## 📚 Próximos tópicos a serem estudados
-
 - Requisições HTTP com Angular
+- Formulários Reativos
 
 ## 🛠️ Tecnologias utilizadas
 
