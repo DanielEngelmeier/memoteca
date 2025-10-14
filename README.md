@@ -4,7 +4,6 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 
 ## ✍🏻 Próximas funcionalidades
 
-- Validação em formulários reativos
 - Paginação
 - Busca
 - Adicionar favoritos
@@ -21,6 +20,7 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 - Comunicação com backend
 - Requisições HTTP com Angular
 - Formulários Reativos
+- Validação em formulários reativos
 
 ## 🛠️ Tecnologias utilizadas
 
