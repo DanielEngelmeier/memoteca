@@ -4,7 +4,6 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 
 ## ✍🏻 Próximas funcionalidades
 
-- Paginação
 - Busca
 - Adicionar favoritos
 - Visualizar favoritos
@@ -21,6 +20,7 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 - Requisições HTTP com Angular
 - Formulários Reativos
 - Validação em formulários reativos
+- Paginação
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -38,6 +38,19 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 3. Execute o projeto:
    ng serve
 4. Acesse no navegador: http://localhost:4200
+
+## Observações sobre o JSON Server
+
+A versão mais recente do `json-server` pode causar problemas de paginação, retornando os mesmos itens em diferentes páginas mesmo com parâmetros `_page`, `_limit`, `_sort`, etc.
+
+Para evitar esse problema, recomenda-se instalar a versão **0.17.4**, que funciona corretamente com paginação.
+
+### Instalação recomendada
+
+```bash
+npm uninstall -g json-server
+npm install json-server@0.17.4
+```
 
 ## 📌 Status
 
