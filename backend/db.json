@@ -4,43 +4,50 @@
       "id": "1",
       "conteudo": "Que bom que você veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "3",
       "conteudo": "Vamos preencher mais um card, só para encher linguiça e ter o que colocar na tela. Opa agora editando da pra encher mais linguiça ainda",
       "autoria": "Daniel dev",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "78ec",
       "conteudo": "Testando o Post",
       "autoria": "Daniel",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": "7883",
       "conteudo": "teste do redirecionamento",
       "autoria": "Dev",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "0388",
       "conteudo": "Que a força esteja com você!",
       "autoria": "Obi Wan Kenobi",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "99f3",
       "conteudo": "Sexto pensamento pra testar a paginação",
       "autoria": "Daniel",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": "008d",
       "conteudo": "Setimo pensamento, esse  não vai aparecer por causa da paginação",
       "autoria": "daniel de novo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     }
   ],
   "teste": [

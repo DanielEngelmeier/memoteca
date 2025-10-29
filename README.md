@@ -4,7 +4,6 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 
 ## ✍🏻 Próximas funcionalidades
 
-- Adicionar favoritos
 - Visualizar favoritos
 
 ## 🧠 Conceitos estudados até agora
@@ -21,6 +20,7 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 - Validação em formulários reativos
 - Paginação
 - Busca utilizando o parametro "q"
+- Adicionar favoritos
 
 ## 🛠️ Tecnologias utilizadas
 
