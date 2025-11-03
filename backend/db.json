@@ -40,14 +40,14 @@
       "conteudo": "Sexto pensamento pra testar a paginação",
       "autoria": "Daniel",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": "008d",
       "conteudo": "Setimo pensamento, esse  não vai aparecer por causa da paginação",
       "autoria": "daniel de novo",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     }
   ],
   "teste": [

@@ -4,8 +4,6 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 
 ## ✍🏻 Próximas funcionalidades
 
-- Visualizar favoritos
-
 ## 🧠 Conceitos estudados até agora
 
 - Componentização com Angular
@@ -21,6 +19,7 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 - Paginação
 - Busca utilizando o parametro "q"
 - Adicionar favoritos
+- Visualizar favoritos
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -32,12 +31,16 @@ Este projeto foi desenvolvido como parte dos cursos **"Angular 14: aplique os co
 ## 📦 Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/DanielEngelmeier/memoteca.git
+   - git clone https://github.com/DanielEngelmeier/memoteca.git
 2. Instale as dependências:
-   npm install
+   - npm install
 3. Execute o projeto:
-   ng serve
-4. Acesse no navegador: http://localhost:4200
+   - ng serve
+4. Acesse no navegador:
+   - http://localhost:4200
+5. Para executar o backend "mocado"
+   - Acesse pelo terminal a pasta backend dentro do projeto
+   - npm start
 
 ## Observações sobre o JSON Server
 
